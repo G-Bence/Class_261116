@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Nagy Lajos",
+      "class": "10th Grade"
+    },
+    {
+      "name": "Kovács Eszter",
+      "class": "11th Grade"
+    },
+    {
+      "name": "Tóth Péter",
+      "class": "12th Grade"
+    },
+    {
+      "name": "Szabó Anna",
+      "class": "10th Grade"
+    },
+    {
+      "name": "Németh Gábor",
+      "class": "11th Grade"
+    },
+    {
+      "name": "Valami",
+      "class": "Valmai"
+    },
+    {
+      "name": "waersf",
+      "class": "asd"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
